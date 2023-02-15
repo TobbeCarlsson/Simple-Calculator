@@ -1,5 +1,5 @@
 # Simple-Calculator
-A simple calculator that is modular and easily expandable
+A simple calculator with lazy evaluation that is modular and easily expandable
 
 The calculator can easily be tested by compiling 'calculator.py' in a terminal supporting python with the command:
 
